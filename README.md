@@ -2,7 +2,7 @@
 <!-- Heading -->
 
 ### Welcome to my **Gitfolio**
-
+---
 <br />
 
 <!-- javascript -->
@@ -13,7 +13,7 @@
 ```
 
 ### Something about Me:
-
+---
 <br />
 
 <!-- Unordered lists -->
@@ -24,7 +24,7 @@
 -   In future I would like to learn Flutter, Java and Tensorflow.
 
 ### Connect with Me:
-
+---
 <br />
 
 <!-- Links -->
