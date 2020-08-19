@@ -1,4 +1,4 @@
-![](gif1.gif)
+<img src="gif1.gif" width="100">
 
 <!-- Heading -->
 
