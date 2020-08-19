@@ -1,4 +1,4 @@
-![Me](abhi-kv29/gif1.gif)
+![](gif1.gif)
 
 <!-- Heading -->
 
