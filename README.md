@@ -1,4 +1,4 @@
-<img src="gif1.gif" width="100">
+<img src="gif1.gif">
 
 <!-- Heading -->
 
