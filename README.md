@@ -20,7 +20,7 @@
 
 -   I am currently Pursuing my Bachelors in **Electronics and Communications Engineering.**
 -   I am currently working on Fullstack Personal Projects.
--   I am currently learning FLutter.
+-   I am currently learning Flutter.
 -   In future I would like to learn Java and Tensorflow.
 
 ### Connect with Me:
