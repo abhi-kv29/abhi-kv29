@@ -20,8 +20,8 @@
 
 -   I am currently Pursuing my Bachelors in **Electronics and Communications Engineering.**
 -   I am currently working on Fullstack Personal Projects.
--   I am learning Flask Framework.
--   In future I would like to learn Flutter, Java and Tensorflow.
+-   I am currently learning FLutter.
+-   In future I would like to learn Java and Tensorflow.
 
 ### Connect with Me:
 ---
