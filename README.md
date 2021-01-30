@@ -19,7 +19,7 @@
 <!-- Unordered lists -->
 
 -   I am currently Pursuing my Bachelors in **Electronics and Communications Engineering.**
--   I am currently working on Fullstack Personal Projects.
+-   I am currently working on Web App Personal Projects.
 -   I am currently learning Java and Selenium.
 -   In future I would like to learn Neural Networks and Tensorflow.
 
