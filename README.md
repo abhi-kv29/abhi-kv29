@@ -23,6 +23,8 @@
 -   I am currently learning Java and Selenium.
 -   In future I would like to learn Neural Networks and Tensorflow.
 
+### PROJECT (IN PROGRESS): COVID RISK FACTOR CALCULATOR 
+
 ### Connect with Me:
 ---
 <br />
