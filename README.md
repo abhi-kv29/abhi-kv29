@@ -21,7 +21,7 @@
 -   I am currently Pursuing my Bachelors in **Electronics and Communications Engineering.**
 -   I am currently working on Web App Personal Projects.
 -   I am currently learning Java and Selenium.
--   In future I would like to learn Neural Networks and Tensorflow.
+-   In future I would love to learn Neural Networks and Tensorflow.
 
 ---
 
@@ -31,7 +31,7 @@
 ---
 
 ### Connect with Me:
----
+
 <br />
 
 <!-- Links -->
