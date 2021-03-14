@@ -45,3 +45,5 @@
 [Steam](https://steamcommunity.com/id/hydr0fff/)
 <br />
 [Website](https://abhi-kv29.github.io/mysite/)
+<br />
+[LinkedIn](https://www.linkedin.com/in/abhi-kv29/)
