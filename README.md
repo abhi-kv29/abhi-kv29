@@ -18,10 +18,9 @@
 
 <!-- Unordered lists -->
 
--   I am currently Pursuing my Bachelors in **Electronics and Communications Engineering.**
--   I am currently working on Web Applications, Mobile Applications and Selenium scripts.
--   I am currently learning Java, Data Structures and Algorithms.
--   In future I would love to learn Neural Networks and Tensorflow.
+-   I am have Pursued my Bachelors in **Electronics and Communications Engineering.**
+-   I am currently working at TCS.
+-   I am currently working on Cloud Research & Development with Python for Developement & Automation.
 
 ---
 
