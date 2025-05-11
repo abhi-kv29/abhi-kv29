@@ -1,4 +1,3 @@
-![gif1](https://user-images.githubusercontent.com/68754075/90609554-dd21cf00-e221-11ea-8899-059a483d4246.gif)
 <!-- Heading -->
 
 ### Welcome to my **Gitfolio**
